@@ -1,0 +1,4 @@
+[
+    { "keys": ["super+0"], "command": "restore_font_size" },
+    { "keys": ["ctrl+0"], "command": "restore_font_size" }
+]
